@@ -1,0 +1,31 @@
+{
+  "name": "devtools-delete-npm-org-packages",
+  "version": "0.0.1",
+  "description": "Delete NPM packages in an organization.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascriptf/devtools-delete-npm-org-packages.git"
+  },
+  "keywords": [
+    "devtools",
+    "delete",
+    "npm",
+    "org",
+    "packages"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javascriptf/devtools-delete-npm-org-packages/issues"
+  },
+  "homepage": "https://github.com/javascriptf/devtools-delete-npm-org-packages#readme",
+  "dependencies": {
+    "extra-sleep": "^1.0.20",
+    "puppeteer": "^20.4.0"
+  }
+}
