@@ -1,6 +1,6 @@
 {
   "name": "devtools-delete-npm-org-packages",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Delete NPM packages in an organization.",
   "private": true,
   "main": "index.js",
