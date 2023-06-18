@@ -33,3 +33,11 @@ You can *stop* the process at any time by *closing the window*.
 - [Connecting Browsers in Puppeteer](https://stackoverflow.com/q/55096771/1413259)
 - [Puppeteer detect when the new tab is opened and get page object](https://stackoverflow.com/q/49050003/1413259)
 - [Puppeteer Execution context was destroyed, most likely because of a navigation](https://stackoverflow.com/q/55877263/1413259)
+
+<br>
+<br>
+
+
+[![](https://img.youtube.com/vi/cxUWZoirTZk/maxresdefault.jpg)](https://www.youtube.com/watch?v=cxUWZoirTZk)<br>
+[![ORG](https://img.shields.io/badge/org-javascriptf-green?logo=Org)](https://javascriptf.github.io)
+[![DOI](https://zenodo.org/badge/645461922.svg)](https://zenodo.org/badge/latestdoi/645461922)
