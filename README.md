@@ -41,3 +41,4 @@ You can *stop* the process at any time by *closing the window*.
 [![](https://img.youtube.com/vi/cxUWZoirTZk/maxresdefault.jpg)](https://www.youtube.com/watch?v=cxUWZoirTZk)<br>
 [![ORG](https://img.shields.io/badge/org-javascriptf-green?logo=Org)](https://javascriptf.github.io)
 [![DOI](https://zenodo.org/badge/645461922.svg)](https://zenodo.org/badge/latestdoi/645461922)
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/delete-npm-org-packages.devtools)
